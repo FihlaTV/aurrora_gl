@@ -1,0 +1,9 @@
+{
+  "modules": [
+    "three"
+  ],
+
+  "gl": [
+    "arcore-gl"
+  ]
+}

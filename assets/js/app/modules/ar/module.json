@@ -1,0 +1,11 @@
+{
+  "modules": [
+    "three",
+    "arcore",
+    "arkit",
+    "aura"
+  ],
+
+  "gl": [
+  ]
+}

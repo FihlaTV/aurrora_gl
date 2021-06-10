@@ -1,0 +1,10 @@
+{
+    "modules": [
+        "three"
+    ],
+
+    "gl": [
+        "arkit-gl",
+        "transformUV"
+    ]
+}

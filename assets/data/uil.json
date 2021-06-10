@@ -1,0 +1,194 @@
+{
+	"mountainposition": [
+		-0.24,
+		-0.06,
+		0.31
+	],
+	"mountainscale": [
+		1.34,
+		1.99,
+		1.59
+	],
+	"crystalsscale": [
+		0.6,
+		0.51,
+		0.6
+	],
+	"crystalsposition": [
+		0.06,
+		0.24,
+		0
+	],
+	"rock1scale": [
+		0.08,
+		0.11,
+		0.07
+	],
+	"rock1position": [
+		-0.07,
+		0.02,
+		0.38
+	],
+	"rock2scale": [
+		0.12,
+		0.1,
+		0.1
+	],
+	"rock2position": [
+		-0.34,
+		0.06,
+		0
+	],
+	"treesposition": [
+		0,
+		0.02,
+		0
+	],
+	"Mountain_Mountain_uColor1": [
+		0.9257586464413454,
+		0.9432910419069589,
+		0.8606305267204921
+	],
+	"Mountain_Mountain_uColor0": [
+		0.5686274509803921,
+		0.5686274509803921,
+		0.5686274509803921
+	],
+	"Trees_Trees_t_3_uColor0": [
+		0.2231047555823823,
+		0.25605536332179935,
+		0.2145328719723183
+	],
+	"Trees_Trees_t_3_uColor1": [
+		0.5630054240589477,
+		0.98000768935025,
+		0.5101883890811226
+	],
+	"Trees_Trees_t_1_uColor1": [
+		0.6028942833952752,
+		0.8096885813148789,
+		0.48442906574394473
+	],
+	"Trees_Trees_t_1_uColor0": [
+		0.24488957533815658,
+		0.29584775086505194,
+		0.23356401384083042
+	],
+	"Trees_Trees_t_2_uColor0": [
+		0.19463985005767004,
+		0.3243944636678201,
+		0.16580161476355249
+	],
+	"Trees_Trees_t_2_uColor1": [
+		0.7006655748109196,
+		0.9163783160322951,
+		0.4953863898500577
+	],
+	"Rock_Rock_rock_1_uColor0": [
+		0.4105391075068595,
+		0.4137831603229527,
+		0.3901384083044983
+	],
+	"Rock_Rock_rock_1_uColor1": [
+		0.8447712418300655,
+		0.8353871060732782,
+		0.7826797385620914
+	],
+	"Rock_Rock_rock_2_uColor1": [
+		0.9152249134948097,
+		0.8726052787572945,
+		0.8102652825836217
+	],
+	"Rock_Rock_rock_2_uColor0": [
+		0.8775470972702808,
+		0.8582533795864895,
+		0.8479430988081507
+	],
+	"IslandBase_IslandBase_uSoilColor0": [
+		0.3875432525951557,
+		0.28264432708067744,
+		0.23990772779700115
+	],
+	"IslandBase_IslandBase_uSoilColor1": [
+		0.9149365628604385,
+		0.8999073782810809,
+		0.7909457900807382
+	],
+	"IslandBase_IslandBase_uMagma0": [
+		0.7356313909241109,
+		0.535755478662053,
+		0.8760092272202998
+	],
+	"IslandBase_IslandBase_uMagma1": [
+		0.9325259515570935,
+		0.028258362168396722,
+		0.2470492168524343
+	],
+	"CompositeuCrystalColor0": [
+		0.1589773164167626,
+		0.602068447565592,
+		0.8606305267204922
+	],
+	"CompositeuCrystalColor1": [
+		0.20299884659746248,
+		0.4703628021973683,
+		0.7381776239907728
+	],
+	"auroraposition": [
+		0,
+		1.06,
+		0
+	],
+	"aurorascale": [
+		1.22,
+		0.79,
+		-0.36
+	],
+	"islandposition": [
+		0,
+		-0.12,
+		0
+	],
+	"Dome_Dome_uColor": [
+		0.05968858131487892,
+		0.21459261123889328,
+		0.46972318339100344
+	],
+	"Dome_Dome_uHueOffset": 0.07,
+	"Dome_Dome_uDark": 0.22,
+	"Dome_Dome_uNoiseSpeed": 0.28,
+	"Dome_Dome_uNoiseScale": 0.9,
+	"Mountain_Mountain_uAtmosphereBlend": 0.59,
+	"IslandSnow_IslandSnow_uAtmosphereBlend": 0.31,
+	"Trees_Trees_t_1_uAtmosphereBlend": 0.6,
+	"Trees_Trees_t_2_uAtmosphereBlend": 0.6,
+	"Trees_Trees_t_3_uAtmosphereBlend": 0.6,
+	"Mountain_Mountain_uAuroraStrength": 0.49,
+	"IslandSnow_IslandSnow_uAuroraStrength": 0.51,
+	"Trees_Trees_t_1_uAuroraStrength": 0.67,
+	"Trees_Trees_t_2_uAuroraStrength": 0.67,
+	"Trees_Trees_t_3_uAuroraStrength": 0.67,
+	"IslandBase_IslandBase_uAtmosphereBlend": 0.6,
+	"LIGHTposition": [
+		100,
+		20,
+		100
+	],
+	"SSAOPasscameraFar": 997.39,
+	"SSAOPassaoClamp": 0.1,
+	"SSAOPasslumInfluence": 0.53,
+	"SSAOPassonlyAO": 0,
+	"CompositeuSSAOBlend": 0.75,
+	"CompositeuFresnel": 0.21,
+	"islandscale": [
+		1.07,
+		1.07,
+		1.07
+	],
+	"Dome_Dome_uFresnel": 0.19,
+	"aurora2position": [
+		0,
+		1.4,
+		0
+	]
+}

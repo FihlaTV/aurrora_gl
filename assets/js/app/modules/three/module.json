@@ -1,0 +1,9 @@
+{
+    "modules": [
+        "shaders"
+    ],
+
+    "gl": [
+        "three-gl"
+    ]
+}
